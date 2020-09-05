@@ -1,0 +1,9 @@
+matplotlib==3.0.3
+imbalanced_learn==0.4.3
+torch==1.0.1.post2
+numpy==1.16.2
+numba==0.43.1
+scipy==1.2.1
+powerlaw==1.4.6
+imblearn==0.0
+scikit_learn==0.23.2

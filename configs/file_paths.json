@@ -1,0 +1,196 @@
+{
+    "bitcoinalpha": {
+        "graph_u2p": "./data/alpha/alpha_graph_u2p.pickle",
+        "graph_u2p_t": "./data/alpha/alpha_graph_u2p_t.pickle",
+        "graph_u2u": "./data/alpha/alpha_graph_u2u.pickle",
+        "graph_u2u_pcc": "./data/alpha/alpha_graph_u2u_pcc.pickle",
+        "graph_u2u_rpcc": "./data/alpha/alpha_graph_u2u_rpcc.pickle",
+        "graph_u2u_acos": "./data/alpha/alpha_graph_u2u_acos.pickle",
+        "graph_u2u_cos": "./data/alpha/alpha_graph_u2u_cos.pickle",
+        "graph_u2u_manhattan": "./data/alpha/alpha_graph_u2u_manhattan.pickle",
+        "graph_u2u_euclidean": "./data/alpha/alpha_graph_u2u_euclidean.pickle",
+        "labels": "./data/alpha/alpha_labels.pickle",
+        "fraudar_r": "./data/alpha/alpha_labels_fraudar_r.pickle",
+        "fraudar": "./data/alpha/alpha_labels_fraudar.pickle",
+        "lockinfer": "./data/alpha/alpha_labels_lockinfer.pickle",
+        "lockinfer_r": "./data/alpha/alpha_labels_lockinfer_r.pickle",
+        "speagle": "./data/alpha/alpha_labels_speagle.pickle",
+        "feagle": "./data/alpha/alpha_labels_feagle.pickle",
+        "rev2": "./data/alpha/alpha_labels_rev2.pickle",
+        "catchsync": "./data/alpha/alpha_labels_catchsync.pickle",
+        "birdnest": "./data/alpha/alpha_labels_birdnest.pickle",
+        "features": "./data/alpha/alpha_features.pickle",
+        "deepwalk": "./data/alpha/alpha_embs_deepwalk.pkl",
+        "bine": "./data/alpha/alpha_embs_bine.pkl",
+        "line": "./data/alpha/alpha_embs_line.pkl",
+        "trainvalitest_indexes": "./data/alpha/alpha_tvt_indexes.pkl",
+        "n2v": {
+            "0": "./data/alpha/n2v/embs-n2v-alpha-4-4.pkl",
+            "1": "./data/alpha/n2v/embs-n2v-alpha-4-2.pkl",
+            "2": "./data/alpha/n2v/embs-n2v-alpha-4-1.pkl",
+            "3": "./data/alpha/n2v/embs-n2v-alpha-4-0.5.pkl",
+            "4": "./data/alpha/n2v/embs-n2v-alpha-4-0.25.pkl",
+            "5": "./data/alpha/n2v/embs-n2v-alpha-2-4.pkl",
+            "6": "./data/alpha/n2v/embs-n2v-alpha-2-2.pkl",
+            "7": "./data/alpha/n2v/embs-n2v-alpha-2-1.pkl",
+            "8": "./data/alpha/n2v/embs-n2v-alpha-2-0.25.pkl",
+            "9": "./data/alpha/n2v/embs-n2v-alpha-2-0.5.pkl",
+            "10": "./data/alpha/n2v/embs-n2v-alpha-1-4.pkl",
+            "11": "./data/alpha/n2v/embs-n2v-alpha-1-2.pkl",
+            "12": "./data/alpha/n2v/embs-n2v-alpha-1-1.pkl",
+            "13": "./data/alpha/n2v/embs-n2v-alpha-1-0.25.pkl",
+            "14": "./data/alpha/n2v/embs-n2v-alpha-1-0.5.pkl",
+            "15": "./data/alpha/n2v/embs-n2v-alpha-0.5-4.pkl",
+            "16": "./data/alpha/n2v/embs-n2v-alpha-0.5-2.pkl",
+            "17": "./data/alpha/n2v/embs-n2v-alpha-0.5-1.pkl",
+            "18": "./data/alpha/n2v/embs-n2v-alpha-0.5-0.25.pkl",
+            "19": "./data/alpha/n2v/embs-n2v-alpha-0.5-0.5.pkl",
+            "20": "./data/alpha/n2v/embs-n2v-alpha-0.25-4.pkl",
+            "21": "./data/alpha/n2v/embs-n2v-alpha-0.25-2.pkl",
+            "22": "./data/alpha/n2v/embs-n2v-alpha-0.25-1.pkl",
+            "23": "./data/alpha/n2v/embs-n2v-alpha-0.25-0.5.pkl",
+            "24": "./data/alpha/n2v/embs-n2v-alpha-0.25-0.25.pkl"
+        }
+    },
+
+    "epinions": {
+        "graph_u2p": "./data/epinions/epinions_graph_u2p.pkl",
+        "graph_u2u": "./data/epinions/epinions_u2u.pkl",
+        "graph_u2u_pcc": "./data/epinions/epinions_graph_u2u_pcc.pkl",
+        "graph_u2u_acos": "./data/epinions/epinions_graph_u2u_acos.pkl",
+        "graph_u2u_cos": "./data/epinions/epinions_graph_u2u_cos.pkl",
+        "graph_u2u_manhattan": "./data/epinions/epinions_graph_u2u_manhattan.pkl",
+        "graph_u2u_euclidean": "./data/epinions/epinions_graph_u2u_euclidean.pkl",
+        "labels": "./data/epinions/epinions_labels.pkl",
+        "features": "./data/epinions/epinions_features.pkl",
+        "deepwalk": "./data/epinions/epinions_embs_deepwalk.pkl",
+        "bine": "./data/epinions/epinions_embs_bine.pkl",
+        "line": "./data/epinions/epinions_embs_line.pkl",
+        "fraudar": {
+            "a_label": "./data/epinions/epinions_labels_fraudar.pkl",
+            "a_cluster": "./data/epinions/epinions_clusters_fraudar.pkl"
+        },
+        "fraudar_r": {
+            "a_label": "./data/epinions/epinions_labels_fraudar_r.pkl"
+        },
+        "lockinfer": {
+            "a_label": "./data/epinions/epinions_labels_lockinfer.pkl",
+            "a_cluster": "./data/epinions/epinions_clusters_lockinfer.pkl"
+        },
+        "lockinfer_r": {
+            "a_label": "./data/epinions/epinions_labels_lockinfer_r.pkl"
+        },
+        "feagle": {
+            "a_label": "./data/epinions/epinions_labels_feagle.pkl"
+        },
+        "rev2": {
+            "a_label": "./data/epinions/epinions_labels_rev2.pkl"
+        },
+        "catchsync": {
+            "a_label": "./data/epinions/epinions_labels_catchsync.pkl"
+        },
+        "birdnest": {
+            "a_label": "./data/epinions/epinions_labels_birdnest.pkl"
+        },
+        "n2v": {
+            "0": "./data/epinions/n2v/embs-n2v-epinions-4-4.pkl",
+            "1": "./data/epinions/n2v/embs-n2v-epinions-4-2.pkl",
+            "2": "./data/epinions/n2v/embs-n2v-epinions-4-1.pkl",
+            "3": "./data/epinions/n2v/embs-n2v-epinions-4-0.5.pkl",
+            "4": "./data/epinions/n2v/embs-n2v-epinions-4-0.25.pkl",
+            "5": "./data/epinions/n2v/embs-n2v-epinions-2-4.pkl",
+            "6": "./data/epinions/n2v/embs-n2v-epinions-2-2.pkl",
+            "7": "./data/epinions/n2v/embs-n2v-epinions-2-1.pkl",
+            "8": "./data/epinions/n2v/embs-n2v-epinions-2-0.25.pkl",
+            "9": "./data/epinions/n2v/embs-n2v-epinions-2-0.5.pkl",
+            "10": "./data/epinions/n2v/embs-n2v-epinions-1-4.pkl",
+            "11": "./data/epinions/n2v/embs-n2v-epinions-1-2.pkl",
+            "12": "./data/epinions/n2v/embs-n2v-epinions-1-1.pkl",
+            "13": "./data/epinions/n2v/embs-n2v-epinions-1-0.25.pkl",
+            "14": "./data/epinions/n2v/embs-n2v-epinions-1-0.5.pkl",
+            "15": "./data/epinions/n2v/embs-n2v-epinions-0.5-4.pkl",
+            "16": "./data/epinions/n2v/embs-n2v-epinions-0.5-2.pkl",
+            "17": "./data/epinions/n2v/embs-n2v-epinions-0.5-1.pkl",
+            "18": "./data/epinions/n2v/embs-n2v-epinions-0.5-0.25.pkl",
+            "19": "./data/epinions/n2v/embs-n2v-epinions-0.5-0.5.pkl",
+            "20": "./data/epinions/n2v/embs-n2v-epinions-0.25-4.pkl",
+            "21": "./data/epinions/n2v/embs-n2v-epinions-0.25-2.pkl",
+            "22": "./data/epinions/n2v/embs-n2v-epinions-0.25-1.pkl",
+            "23": "./data/epinions/n2v/embs-n2v-epinions-0.25-0.5.pkl",
+            "24": "./data/epinions/n2v/embs-n2v-epinions-0.25-0.25.pkl"
+        }
+    },
+
+    "weibo_s": {
+        "graph_u2p": "./data/weibo_s/weibo_s_graph_u2p.pkl",
+        "graph_u2u": "./data/weibo_s/weibo_s_graph_u2u.pkl",
+        "graph_u2u_pcc": "./data/weibo_s/weibo_s_graph_u2u_pcc.pkl",
+        "graph_u2u_acos": "./data/weibo_s/weibo_s_graph_u2u_acos.pkl",
+        "graph_u2u_cos": "./data/weibo_s/weibo_s_graph_u2u_cos.pkl",
+        "graph_u2u_manhattan": "./data/weibo_s/weibo_s_graph_u2u_manhattan.pkl",
+        "graph_u2u_euclidean": "./data/weibo_s/weibo_s_graph_u2u_euclidean.pkl",
+        "labels": "./data/weibo_s/weibo_s_labels_u.pkl",
+        "features_loc": "./data/weibo_s/weibo_s_features_loc.pkl",
+        "features_bow": "./data/weibo_s/weibo_s_features_bow.pkl",
+        "deepwalk": "./data/weibo_s/weibo_s_embs_deepwalk.pkl",
+        "bine": "./data/weibo_s/weibo_s_embs_bine.pkl",
+        "line": "./data/weibo_s/weibo_s_embs_line.pkl",
+        "fraudar": {
+            "a_label": "./data/weibo_s/weibo_s_labels_fraudar.pkl",
+            "a_cluster": "./data/weibo_s/weibo_s_clusters_fraudar.pkl",
+            "logits": "./data/weibo_s/weibo_s_logits_fraudar.pkl"
+        },
+        "fraudar_r": {
+            "a_label": "./data/weibo_s/weibo_s_labels_fraudar_r.pkl"
+        },
+        "lockinfer": {
+            "a_label": "./data/weibo_s/weibo_s_labels_lockinfer.pkl",
+            "a_cluster": "./data/weibo_s/weibo_s_clusters_lockinfer.pkl",
+            "logits": "./data/weibo_s/weibo_s_logits_lockinfer.pkl"
+        },
+        "lockinfer_r": {
+            "a_label": "./data/weibo_s/weibo_s_labels_lockinfer_r.pkl"
+        },
+        "feagle": {
+            "a_label": "./data/weibo_s/weibo_s_labels_feagle.pkl",
+            "logits": "./data/weibo_s/weibo_s_logits_feagle.pkl"
+        },
+        "rev2": {
+            "a_label": "./data/weibo_s/weibo_s_labels_rev2.pkl",
+            "logits": "./data/weibo_s/weibo_s_logits_rev2.pkl"
+        },
+        "catchsync": {
+            "a_label": "./data/weibo_s/weibo_s_labels_catchsync.pkl"
+        },
+        "birdnest": {
+            "a_label": "./data/weibo_s/weibo_s_labels_birdnest.pkl"
+        },
+        "n2v": {
+            "0": "./data/weibo_s/n2v/embs-n2v-weibo_s-4-4.pkl",
+            "1": "./data/weibo_s/n2v/embs-n2v-weibo_s-4-2.pkl",
+            "2": "./data/weibo_s/n2v/embs-n2v-weibo_s-4-1.pkl",
+            "3": "./data/weibo_s/n2v/embs-n2v-weibo_s-4-0.5.pkl",
+            "4": "./data/weibo_s/n2v/embs-n2v-weibo_s-4-0.25.pkl",
+            "5": "./data/weibo_s/n2v/embs-n2v-weibo_s-2-4.pkl",
+            "6": "./data/weibo_s/n2v/embs-n2v-weibo_s-2-2.pkl",
+            "7": "./data/weibo_s/n2v/embs-n2v-weibo_s-2-1.pkl",
+            "8": "./data/weibo_s/n2v/embs-n2v-weibo_s-2-0.25.pkl",
+            "9": "./data/weibo_s/n2v/embs-n2v-weibo_s-2-0.5.pkl",
+            "10": "./data/weibo_s/n2v/embs-n2v-weibo_s-1-4.pkl",
+            "11": "./data/weibo_s/n2v/embs-n2v-weibo_s-1-2.pkl",
+            "12": "./data/weibo_s/n2v/embs-n2v-weibo_s-1-1.pkl",
+            "13": "./data/weibo_s/n2v/embs-n2v-weibo_s-1-0.25.pkl",
+            "14": "./data/weibo_s/n2v/embs-n2v-weibo_s-1-0.5.pkl",
+            "15": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.5-4.pkl",
+            "16": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.5-2.pkl",
+            "17": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.5-1.pkl",
+            "18": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.5-0.25.pkl",
+            "19": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.5-0.5.pkl",
+            "20": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.25-4.pkl",
+            "21": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.25-2.pkl",
+            "22": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.25-1.pkl",
+            "23": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.25-0.5.pkl",
+            "24": "./data/weibo_s/n2v/embs-n2v-weibo_s-0.25-0.25.pkl"
+        }
+    }
+}
