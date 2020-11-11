@@ -14,12 +14,12 @@ pip install -r requirements.txt
 ## Cite
 If you find this repository useful in your research, please cite our paper:
 
-```
+```bibtex
 @inproceedings{zhao2020error,
   title={Error-Bounded Graph Anomaly Loss for GNNs},
   author={Zhao, Tong and Deng, Chuchen and Yu, Kaifeng and Jiang, Tianwen and Wang, Daheng and Jiang, Meng},
-  booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
-  pages={},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={1873--1882},
   year={2020}
 }
 ```
