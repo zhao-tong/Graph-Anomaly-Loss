@@ -1,7 +1,8 @@
 ## Error-Bounded Graph Anomaly Loss for GNNs
 
-This repository contains the code package for the CIKM'20 paper \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979)\]:
->Error-Bounded Graph Anomaly Loss for GNNs.
+This repository contains the code package for the CIKM'20 paper:
+
+**[Error-Bounded Graph Anomaly Loss for GNNs](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979).**
 
 #### Authors: Tong Zhao (tzhao2@nd.edu), Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang and Meng Jiang.
 
