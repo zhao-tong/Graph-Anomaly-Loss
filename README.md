@@ -8,7 +8,7 @@ This repository contains the code package for the CIKM'20 paper:
 
 ## Usage
 ### 1. Dependencies
-This code package was developed and tested with Python 3.6.8 and [PyTorch 1.0.1](https://pytorch.org/).
+This code package was developed with Python 3.6.8 and [PyTorch 1.0.1.post2](https://pytorch.org/).
 A detailed dependencies list can be found in `requirements.txt` and can be installed by:
 ```
 pip install -r requirements.txt
