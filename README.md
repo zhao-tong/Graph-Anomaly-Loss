@@ -28,7 +28,7 @@ To train the model, run
 ```
 python -m src.main
 ```
-list of arguments can be found at `/src/main.py`.
+list of arguments can be found at [here](https://github.com/zhao-tong/Graph-Anomaly-Loss/blob/master/src/main.py#L11).
 
 
 ## Cite
