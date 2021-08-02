@@ -8,8 +8,7 @@ import numpy as np
 
 from src.GAL import *
 
-parser = argparse.ArgumentParser(description='pytorch version of GraphSAGE')
-
+parser = argparse.ArgumentParser(description=' ')
 parser.add_argument('--cuda', type=int, default=-1, help='Which GPU to run on (-1 for using CPU, 9 for not specifying which GPU to use.)')
 parser.add_argument('--dataSet', type=str, default='weibo_s')
 parser.add_argument('--file_paths', type=str, default='file_paths.json')
