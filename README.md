@@ -4,13 +4,13 @@ This repository contains the code package for the TNNLS paper:
 
 **A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning.**
 
-#### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Tianwen Jiang](https://twjiang.github.io/), [Neil Shah](http://nshah.net/) and [Meng Jiang](http://www.meng-jiang.com/).
+#### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Tianwen Jiang](https://twjiang.github.io/), [Neil Shah](http://nshah.net/), and [Meng Jiang](http://www.meng-jiang.com/).
 
 and the CIKM'20 paper:
 
 **[Error-Bounded Graph Anomaly Loss for GNNs](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979).**
 
-#### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), Chuchen Deng, Kaifeng Yu, [Tianwen Jiang](https://twjiang.github.io/), [Daheng Wang](https://dahengwang0705.github.io/) and [Meng Jiang](http://www.meng-jiang.com/).
+#### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), Chuchen Deng, Kaifeng Yu, [Tianwen Jiang](https://twjiang.github.io/), [Daheng Wang](https://dahengwang0705.github.io/), and [Meng Jiang](http://www.meng-jiang.com/).
 
 ## Usage
 ### 1. Dependencies
