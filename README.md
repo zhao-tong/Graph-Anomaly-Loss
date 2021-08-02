@@ -1,10 +1,16 @@
 ## Error-Bounded Graph Anomaly Loss for GNNs
 
-This repository contains the code package for the CIKM'20 paper:
+This repository contains the code package for the TNNLS paper:
+
+**A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning.**
+
+#### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Tianwen Jiang](https://twjiang.github.io/), [Neil Shah](http://nshah.net/) and [Meng Jiang](http://www.meng-jiang.com/).
+
+and the CIKM'20 paper:
 
 **[Error-Bounded Graph Anomaly Loss for GNNs](https://dl.acm.org/doi/pdf/10.1145/3340531.3411979).**
 
-#### Authors: Tong Zhao (tzhao2@nd.edu), Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang and Meng Jiang.
+#### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), Chuchen Deng, Kaifeng Yu, [Tianwen Jiang](https://twjiang.github.io/), [Daheng Wang](https://dahengwang0705.github.io/) and [Meng Jiang](http://www.meng-jiang.com/).
 
 ## Usage
 ### 1. Dependencies
@@ -26,9 +32,17 @@ list of arguments can be found at `/src/main.py`.
 
 
 ## Cite
-If you find this repository useful in your research, please cite our paper:
+If you find this repository useful in your research, please cite our papers:
 
 ```bibtex
+@article{zhao2021synergistic,
+  title={A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning},
+  author={Zhao, Tong and Jiang, Tianwen, and Shah, Neil and Jiang, Meng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2021},
+  publisher={IEEE}
+}
+
 @inproceedings{zhao2020error,
   title={Error-Bounded Graph Anomaly Loss for GNNs},
   author={Zhao, Tong and Deng, Chuchen and Yu, Kaifeng and Jiang, Tianwen and Wang, Daheng and Jiang, Meng},
