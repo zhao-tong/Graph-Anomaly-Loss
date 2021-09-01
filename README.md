@@ -35,7 +35,7 @@ list of arguments can be found at [here](https://github.com/zhao-tong/Graph-Anom
 If you find this repository useful in your research, please cite our papers:
 
 ```bibtex
-@ARTICLE{9525041,
+@ARTICLE{zhao2021synergistic,
   author={Zhao, Tong and Jiang, Tianwen and Shah, Neil and Jiang, Meng},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={A Synergistic Approach for Graph Anomaly Detection With Pattern Mining and Feature Learning}, 
