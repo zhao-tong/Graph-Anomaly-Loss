@@ -2,7 +2,7 @@
 
 This repository contains the code package for the TNNLS paper:
 
-**A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning.**
+**[A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning](https://doi.org/10.1109/TNNLS.2021.3102609).**
 
 #### Authors: [Tong Zhao](https://tzhao.io/) (tzhao2@nd.edu), [Tianwen Jiang](https://twjiang.github.io/), [Neil Shah](http://nshah.net/), and [Meng Jiang](http://www.meng-jiang.com/).
 
@@ -35,13 +35,15 @@ list of arguments can be found at [here](https://github.com/zhao-tong/Graph-Anom
 If you find this repository useful in your research, please cite our papers:
 
 ```bibtex
-@article{zhao2021synergistic,
-  title={A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning},
-  author={Zhao, Tong and Jiang, Tianwen, and Shah, Neil and Jiang, Meng},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
+@ARTICLE{9525041,
+  author={Zhao, Tong and Jiang, Tianwen and Shah, Neil and Jiang, Meng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={A Synergistic Approach for Graph Anomaly Detection With Pattern Mining and Feature Learning}, 
   year={2021},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TNNLS.2021.3102609}}
 
 @inproceedings{zhao2020error,
   title={Error-Bounded Graph Anomaly Loss for GNNs},
