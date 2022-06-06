@@ -40,9 +40,9 @@ If you find this repository useful in your research, please cite our papers:
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={A Synergistic Approach for Graph Anomaly Detection With Pattern Mining and Feature Learning}, 
   year={2021},
-  volume={},
-  number={},
-  pages={1-13},
+  volume={33},
+  number={6},
+  pages={2393-2405},
   doi={10.1109/TNNLS.2021.3102609}}
 
 @inproceedings{zhao2020error,
